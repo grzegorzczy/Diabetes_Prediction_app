@@ -1,0 +1,4 @@
+Zrobiliśmy nowe środowisko w Anaconda Navigator. To jest tak jak tworzysz śorodwisko env w VS.
+Po tym zainstalowałęm biblioteki niezbędne. I streamlit też. Jak chcesz uruchomić aplikację w przeglądarce
+to w konsoli streamlit run "ścieżka do konkretnego progeamu":
+streamlit run "C:\Users\Grzesiek\Desktop\KURSY\Generative_AI_Hindus\Kurs_Yt\5. Programy\Supervised_Classification\1.Diabetes_Prediction\diabetes_preciction_webb_app.py"
